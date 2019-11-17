@@ -6,9 +6,11 @@ end
 
 
 def shipping_manifest
-  hash = {["whale bone coresets" => 5, "porcelain vases" => 2, "oil paintings" => 3]}
-
-
+  hash = {
+    "whale bone coresets" => 5, 
+    "porcelain vases" => 2, 
+    "oil paintings" => 3
+  }
 end
 
 def retrieval
